@@ -1,5 +1,5 @@
 <div style="text-align: center;"><h1>Christian Pratt df</h1></div>
-<p style="text-align: center;"><h2>Complexity Sciences Center as</h2></div>
+<p style="text-align: center;"><h2>Complexity Sciences Center as</h2></p>
 
 # h1 text should be big..???
 
