@@ -6,11 +6,14 @@
 
 <div class="large-text">Here lies large text?</div>
 
-<div style="text-align: center; font-size: 50px;"?>this is supposed to be huge text</div>
+<div style="text-align: center; font-size: 50px;">this is supposed to be huge text</div>
 
-<div style="text-align: center; color: blue; font-size: 50px;">
-  This text is centered, blue, and has a font size of 50px.
-</div>
+<div align="center" style="font-size: 50px;">This is supposed to be bigggg text</div>
+
+<div align="center" style="color: blue; font-size: 18px;">
+  This text is centered, blue, and has a font size of 18px.
+</div>`
+
 
 
 # another test
