@@ -1,22 +1,10 @@
-## Christian Pratt
+# Christian Pratt
+Graduate Student
 Complexity Sciences Center
 Department of Physics and Astronomy
 University of California-Davis
+czpratt [at] ucdavis (dot) edu
 
-### h3 slightly smaller
+## There might be more to say here
 
-body of text
-
-#### h4 and smaller
-
-body of text
-
-##### h5 smoller
-
-body of text
-of
-
-###### h6 smol
-
-text
-body of text
+but I am not sure yet
