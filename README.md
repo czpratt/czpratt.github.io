@@ -1,13 +1,7 @@
-# Christian Pratt
-## Complexity Sciences Center
-## Department of Physics and Astronomy
-## University of California-Davis
-
-body of text
-
-## h2 should be slightly less big? 
-
-body of text
+## Christian Pratt
+Complexity Sciences Center
+Department of Physics and Astronomy
+University of California-Davis
 
 ### h3 slightly smaller
 
