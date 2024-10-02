@@ -1,11 +1,8 @@
 <div align="center"><h1>Christian Pratt</h1></div>
 
-<p style="text-align: center; font-size: 100px;">
-    Christian Pratt
-</p>
-
-
-
+<div style="text-align: center;">
+<h1 style="font-size: 100px;">Stuff here</h1>
+</div>
 
 # another test
 ## testing
