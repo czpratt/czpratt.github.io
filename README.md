@@ -11,7 +11,7 @@
 <div align="center" style="font-size: 50px;">This is supposed to be bigggg text</div>
 
 <div align="center" style="color: blue; font-size: 18px;">
-  This text is centered, blue, and has a font size of 18px.
+here here here
 </div>`
 
 
