@@ -1,26 +1,28 @@
-<div style="text-align: center;"><h1>Christian Pratt df</h1></div>
-<p style="text-align: center;"><h2>Complexity Sciences Center as</h2></p>
+# Christian Pratt
+## Complexity Sciences Center
+## Department of Physics and Astronomy
+## University of California-Davis
 
-# h1 text should be big..???
-
-body
+body of text
 
 ## h2 should be slightly less big? 
 
-of
+body of text
 
 ### h3 slightly smaller
 
-text
+body of text
 
 #### h4 and smaller
 
-body
+body of text
 
 ##### h5 smoller
 
+body of text
 of
 
 ###### h6 smol
 
 text
+body of text
