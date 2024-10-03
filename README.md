@@ -6,7 +6,7 @@ Broadly, I am interested in all things computational.
 
 ### Research
 
-What is the fundamental physics of computation? Currently, I am using dynamical systems theory and nonequilibrium thermodynamics to help make sense of this question. Specifically, I am using superconducting circuits as a test-bed for exploring the physics of information storage and processing.
+What is the fundamental physics of computation? I am using tools from dynamical systems theory and thermodynamics to help make sense of this question. Specifically, I am using superconducting circuits as a test-bed for exploring the physics of information storage and processing.
 
 #### Papers
 
