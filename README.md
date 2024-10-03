@@ -4,8 +4,10 @@ I am currently a fourth year physics PhD student in the [Complexity Sciences Cen
 
 ### Research
 
-I study the physics of computation.
+What is energy? What is information? What is their relationship, and how can we leverage it? Studying the physics of computation is one way of understanding this connection; currently, I am using dynamical systems theory and nonequilibrium thermodynamics to understand how computations are performed at a fundamental level. Specifically, we are leveraging superconducting devices as a test bed for exploring this paradigm of computing.
 
 #### Papers
 
 Here are my papers
+
+
