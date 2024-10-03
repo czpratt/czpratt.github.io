@@ -1,10 +1,11 @@
 # Christian Pratt
-Graduate Student
-Complexity Sciences Center
-Department of Physics and Astronomy
-University of California-Davis
-czpratt [at] ucdavis (dot) edu
 
-## More stuff to say here
+I am currently a fourth year graduate student at the [Complexity Sciences Center](csc.ucdavis.edu) in the Department of Physics and Astronomy at UC Davis.
 
-which will happen later
+## Research
+
+I study the physics of computation.
+
+### Papers
+
+Here are my papers
