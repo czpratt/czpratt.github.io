@@ -1,6 +1,6 @@
 ## Christian Pratt
 
-I am currently a fourth year physics PhD student in the [Complexity Sciences Center](https://csc.ucdavis.edu) at [UC Davis](https://www.ucdavis.edu). Broadly, I am interested in all things computational.
+I am currently a fourth year physics PhD student in the [Complexity Sciences Center](https://csc.ucdavis.edu) at [UC Davis](https://www.ucdavis.edu). 
 
 ### Research
 
