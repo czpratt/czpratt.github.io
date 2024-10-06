@@ -1,5 +1,1 @@
-remote_theme: czpratt/jekyll-theme-console
-style: light
-
-sass:
-  style: compressed
+remote_theme: czpratt/website
