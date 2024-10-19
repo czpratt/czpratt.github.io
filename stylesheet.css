@@ -130,6 +130,120 @@ h2 {
   -webkit-transition: opacity .2s ease-in-out;
 }
 
+/* taken from: dalejn.github.io */
+papertitle {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 700
+}
+
 span.highlight {
   background-color: #ffffd0;
 }
+
+.nav {
+  height: 50px;
+  overflow: auto;
+  width: 100%;
+  font-size: 20px;
+}
+
+@media (max-width: 1265px) {                  
+.content-to-hide {
+  display: none;
+  float:right;
+  }
+}
+
+h1:focus, h2:focus, h3:focus, h4:focus, h5:focus, h6:focus, h7:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.toc{overflow-y:auto}.toc>.toc-list{overflow:hidden;position:relative;}.toc>.toc-list li{list-style:none}.toc-list{margin:0;padding-right:25px;padding-left:25;}a.toc-link{color:currentColor;height:100%;font-size: 20px}.is-collapsible{max-height:1000px;overflow:hidden;transition:all 300ms ease-in-out}.is-collapsed{max-height:0}.is-position-fixed{position:fixed !important;top:30;right:0;}.is-active-link{font-weight:700}.toc-link::before{background-color:#EEE;content:' ';display:inline-block;height:inherit;left:0;margin-top:-1px;position:absolute;width:2.5px}.is-active-link::before{background-color:#54BC4B}
+
+a {
+  text-decoration: none;
+  /*color: #4973AB;*/
+  color: #0066CB;
+}
+
+.text a {
+  border-bottom: 1px dashed #888;
+}
+
+.text a:hover {
+  border-bottom: 0px;
+}
+
+.special_links {
+  vertical-align: middle;
+  float: right;
+  text-align: right;
+}
+
+.special_links a {
+  line-height: 24pt;
+  vertical-align: middle;
+}
+
+a.author, a.title {
+  color: black;
+}
+
+a.keyword {
+  color: #999;
+}
+
+a.link {
+  color: #fff;
+  opacity: 0.7;
+  background: #666;
+  padding: 2px 4px;
+  font-size: 14pt;
+  line-height: 18pt;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+}
+
+a.link:hover {
+  opacity: 1;
+}
+
+a.link_url, a.link_doi, a.link_isbn, a.link_custom {
+  background: #d9544d;
+}
+
+a.link_preprint, a.link_doi, a.link_isbn, a.link_custom {
+  background: #00A779;
+}
+
+a.link_pdf, a.link_file, a.link_ppt {
+  background: #FF9C00;
+}
+
+a.link_code {
+  background: #0E53A7;
+}
+
+a.link_video {
+  background: #54BC4B;
+}
+
+details > summary {
+  color: #1772d0;
+  text-decoration: none;
+  outline: none;
+}
+
+details > summary:hover {
+  color: #f09228;
+  text-decoration: none;
+  outline: none;
+}
+
+.indented{
+    text-indent: 50px;
+}
+
