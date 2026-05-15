@@ -425,3 +425,70 @@ h3 a:hover {
   color: #333;
   max-width: 65ch;          /* keeps long paragraphs readable */
 }
+
+/**************************************************/
+/* Mobile styles (anything narrower than the 54em main column). */
+
+@media (max-width: 56em) {
+  #main {
+    width: auto;
+    max-width: 100%;
+    padding: 0 1.25em;
+    box-sizing: border-box;
+  }
+
+  #intro {
+    padding-top: 3em;
+    flex-direction: column-reverse; /* photo on top, text below */
+    align-items: flex-start;
+  }
+
+  #intro-text {
+    width: 100%;
+  }
+
+  #intro-image {
+    margin: 0 0 1.5em 0;
+    width: 8em;
+    height: 8em;
+  }
+
+  #intro-image img {
+    width: 8em;
+  }
+
+  h1 {
+    font-size: 2.2em;
+    line-height: 1.2em;
+    margin-bottom: 0.5em;
+  }
+
+  .button {
+    font-size: 1.4em;
+    line-height: 2em;
+    margin-right: 0.75em;
+  }
+
+  /* Stack thumbnail above description on each publication */
+  .list-item.publication {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .list-item.publication .thumbnail {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 280px;
+  }
+
+  .previews {
+    height: auto;
+    grid-auto-rows: auto;
+  }
+
+  #back-to-top {
+    bottom: 1em;
+    right: 1em;
+  }
+}
