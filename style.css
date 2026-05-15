@@ -48,7 +48,7 @@ table {
 
 #body{
   font-family: 'Inter', sans-serif;
-  font-size: 1em;
+  font-size: 1.25em;
   line-height: 1.5em;
   color: #150c21;
 }
@@ -84,8 +84,8 @@ b {
 }
 
 h1 {
-  font-size: 2.4em;
-  line-height: 2.4em;
+  font-size: 2.8em;
+  line-height: 2.8em;
   font-weight: 500;
 }
 
@@ -278,8 +278,8 @@ h2 {
 }
 
 h3 {
-  font-size: 1.25em;
-  line-height: 1.35em;
+  font-size: 1.35em;
+  line-height: 1.45em;
   font-weight: 400; 
 }
 h3 a {
