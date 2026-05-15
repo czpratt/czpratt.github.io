@@ -361,7 +361,7 @@ h3 a:hover {
 }
 
 .list-item.publication .thumbnail {
-  flex: 0 0 200px;          /* fixed-width thumbnail column */
+  flex: 0 0 280px;          /* fixed-width thumbnail column */
   display: block;
 }
 
