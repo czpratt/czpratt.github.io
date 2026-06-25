@@ -57,6 +57,16 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Newsreader', serif;
 }
 
+/* Name */
+#intro-text h1 {
+  font-family: 'Newsreader', serif;
+}
+
+/* Section headings / menu buttons */
+.button,
+#menu h2 {
+  font-family: 'Newsreader', serif;
+}
 
 #main {
   width: 54em;
